@@ -8,7 +8,7 @@ Before beginning, ensure that you have:
 
 - A system running a supported operating system with internet connectivity.
 - Docker and Docker Compose installed.
-- Administrative privileges to install software packages.
+- Administrative privileges to install software package.
 
 ### Step-by-Step Instructions
 
